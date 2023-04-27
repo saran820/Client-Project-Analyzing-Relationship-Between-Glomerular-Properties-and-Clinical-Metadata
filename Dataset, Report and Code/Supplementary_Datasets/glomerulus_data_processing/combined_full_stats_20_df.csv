@@ -1,0 +1,59 @@
+,VAN0003,VAN0005,VAN0006,VAN0007,VAN0008,VAN0009,VAN0010,VAN0011,VAN0012,VAN0013,VAN0014,VAN0016
+patient_number,VAN0003,VAN0005,VAN0006,VAN0007,VAN0008,VAN0009,VAN0010,VAN0011,VAN0012,VAN0013,VAN0014,VAN0016
+HBM,HBM875.QHDJ.259,"HBM463.JRTB.582, HBM958.GHFM.676, HBM636.ZPTS.368","HBM725.PDDC.788, HBM636.GVWP.354",HBM362.PTQJ.743,HBM783.GDKK.879,"HBM879.CDHB.995, HBM389.MBWW.346","HBM833.DBGG.252, HBM662.PMPZ.644",HBM783.GJWP.694,HBM874.RZDW.757,"HBM849.XMPC.398, HBM623.RPMC.638","HBM276.PGFS.693, HBM979.HDZH.896","HBM676.SNVK.793, HBM264.XSVF.528"
+json_file,aaa6a05cc.json,"aa05346ff, b9a3865fc.json, afa5e8098.json","cb2d976f4.json, 54f2eec69.json",d488c759a,1e2425f28.json,"e79de561c.json, b2dc8411c.json","c68fe75ea.json, 2ec3f1bb9",0486052bb.json,095bf7a1f.json,"3589adb90, 26dc41664.json","2f6ecfcdf.json, 57512b7f1","8242609fa.json, 4ef6695ce.json"
+full_json,aaa6a05cc.json,"b9a3865fc.json, aa05346ff.json, afa5e8098.json","cb2d976f4.json, 54f2eec69.json",d488c759a.json,1e2425f28.json,"e79de561c.json, b2dc8411c.json","c68fe75ea.json, 2ec3f1bb9.json",0486052bb.json,095bf7a1f.json,"3589adb90.json, 26dc41664.json","2f6ecfcdf.json, 57512b7f1.json","8242609fa.json, 4ef6695ce.json"
+acquisition_instrument_model,SCN400,SCN400,SCN400,SCN400,SCN400,SCN400,SCN400,SCN400,SCN400,SCN400,SCN400,SCN400
+acquisition_instrument_vendor,Leica Biosystems,Leica Biosystems,Leica Biosystems,Leica Biosystems,Leica Biosystems,Leica Biosystems,Leica Biosystems,Leica Biosystems,Leica Biosystems,Leica Biosystems,Leica Biosystems,Leica Biosystems
+analyte_class,polysaccharides,polysaccharides,polysaccharides,polysaccharides,polysaccharides,polysaccharides,polysaccharides,polysaccharides,polysaccharides,polysaccharides,polysaccharides,polysaccharides
+assay_category,imaging,imaging,imaging,imaging,imaging,imaging,imaging,imaging,imaging,imaging,imaging,imaging
+assay_type,PAS microscopy,PAS microscopy,PAS microscopy,PAS microscopy,PAS microscopy,PAS microscopy,PAS microscopy,PAS microscopy,PAS microscopy,PAS microscopy,PAS microscopy,PAS microscopy
+description,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+execution_datetime,2020-09-28 15:44,"2020-09-28 15:56, 12/16/19 1:11, 12/6/19 17:46","2020-09-28 15:56, 11/20/19 14:41",11/20/19 15:51,10/24/19 12:00,"12/6/19 17:46, 2020-09-28 15:44","12/6/19 17:46, 2020-09-28 15:44",2020-09-28 15:44,11/20/19 15:51,"2020-09-28 15:56, 11/20/19 14:58","2020-10-06 01:54, 12/17/19 16:42","2020-09-28 16:11, 11/20/19 15:51"
+operator_email,nathan.h.patterson@vanderbilt.edu,"nathan.h.patterson@vanderbilt.edu, elizabeth.neumann@vanderbilt.edu","nathan.h.patterson@vanderbilt.edu, elizabeth.neumann@vanderbilt.edu",elizabeth.neumann@vanderbilt.edu,elizabeth.neumann@vanderbilt.edu,"nathan.h.patterson@vanderbilt.edu, elizabeth.neumann@vanderbilt.edu","nathan.h.patterson@vanderbilt.edu, elizabeth.neumann@vanderbilt.edu",nathan.h.patterson@vanderbilt.edu,elizabeth.neumann@vanderbilt.edu,"nathan.h.patterson@vanderbilt.edu, elizabeth.neumann@vanderbilt.edu","nathan.h.patterson@vanderbilt.edu, elizabeth.neumann@vanderbilt.edu","nathan.h.patterson@vanderbilt.edu, elizabeth.neumann@vanderbilt.edu"
+overall_protocols_io_doi,10.17504/protocols.io.bfskjncw,10.17504/protocols.io.bfskjncw,10.17504/protocols.io.bfskjncw,10.17504/protocols.io.bfskjncw,10.17504/protocols.io.bfskjncw,10.17504/protocols.io.bfskjncw,10.17504/protocols.io.bfskjncw,10.17504/protocols.io.bfskjncw,10.17504/protocols.io.bfskjncw,10.17504/protocols.io.bfskjncw,10.17504/protocols.io.bfskjncw,10.17504/protocols.io.bfskjncw
+pi,Jeffrey M. Spraggins,Jeffrey M. Spraggins,Jeffrey M. Spraggins,Jeffrey M. Spraggins,Jeffrey M. Spraggins,Jeffrey M. Spraggins,Jeffrey M. Spraggins,Jeffrey M. Spraggins,Jeffrey M. Spraggins,Jeffrey M. Spraggins,Jeffrey M. Spraggins,Jeffrey M. Spraggins
+pi_email,jeff.spraggins@vanderbilt.edu,jeff.spraggins@vanderbilt.edu,jeff.spraggins@vanderbilt.edu,jeff.spraggins@vanderbilt.edu,jeff.spraggins@vanderbilt.edu,jeff.spraggins@vanderbilt.edu,jeff.spraggins@vanderbilt.edu,jeff.spraggins@vanderbilt.edu,jeff.spraggins@vanderbilt.edu,jeff.spraggins@vanderbilt.edu,jeff.spraggins@vanderbilt.edu,jeff.spraggins@vanderbilt.edu
+protocols_io_doi,10.17504/protocols.io.4qngvve,10.17504/protocols.io.4qngvve,10.17504/protocols.io.4qngvve,10.17504/protocols.io.4qngvve,10.17504/protocols.io.4qngvve,10.17504/protocols.io.4qngvve,10.17504/protocols.io.4qngvve,10.17504/protocols.io.4qngvve,10.17504/protocols.io.4qngvve,10.17504/protocols.io.4qngvve,10.17504/protocols.io.4qngvve,10.17504/protocols.io.4qngvve
+resolution_x_unit,nm,nm,nm,nm,nm,nm,nm,nm,nm,nm,nm,nm
+resolution_y_unit,nm,nm,nm,nm,nm,nm,nm,nm,nm,nm,nm,nm
+resolution_z_unit,nm,nm,nm,nm,nm,nm,nm,nm,nm,nm,nm,nm
+section_prep_protocols_io_doi,10.17504/protocols.io.7gehjte,"10.17504/protocols.io.4qngvve, 10.17504/protocols.io.7gehjte","10.17504/protocols.io.4qngvve, 10.17504/protocols.io.7gehjte",10.17504/protocols.io.4qngvve,10.17504/protocols.io.4qngvve,"10.17504/protocols.io.4qngvve, 10.17504/protocols.io.7gehjte","10.17504/protocols.io.4qngvve, 10.17504/protocols.io.7gehjte",10.17504/protocols.io.7gehjte,10.17504/protocols.io.4qngvve,"10.17504/protocols.io.4qngvve, 10.17504/protocols.io.7gehjte","10.17504/protocols.io.4qngvve, 10.17504/protocols.io.7gehjte","10.17504/protocols.io.4qngvve, 10.17504/protocols.io.7gehjte"
+stain,Periodic acid-Schiff ,"Periodic acid-Schiff , Periodic acid-Schiff","Periodic acid-Schiff , Periodic acid-Schiff",Periodic acid-Schiff,Periodic acid-Schiff,"Periodic acid-Schiff , Periodic acid-Schiff","Periodic acid-Schiff , Periodic acid-Schiff",Periodic acid-Schiff ,Periodic acid-Schiff,"Periodic acid-Schiff , Periodic acid-Schiff","Periodic acid-Schiff , Periodic acid-Schiff","Periodic acid-Schiff , Periodic acid-Schiff"
+donor.age_unit,years,years,years,years,years,years,years,years,years,years,years,years
+donor.body_mass_index_unit,kg/m^2,kg/m^2,kg/m^2,kg/m^2,kg/m^2,kg/m^2,kg/m^2,kg/m^2,kg/m^2,kg/m^2,kg/m^2,kg/m^2
+donor.medical_history,"Diabetes, Cancer, Hypertension, Coronary artery disease",Cancer,"Diabetes, Cancer, Hypertension, Coronary artery disease",Cancer,"Cancer, Hypertension, Coronary artery disease","Cancer, Hypertension, Coronary artery disease","Cancer, Hypertension, Coronary artery disease",NaN,Cancer,Cancer,"Cancer, Hypertension, Coronary artery disease",Cancer
+donor.race,White,White,Black or African American,White,White,Black or African American,White,White,White,White,White,White
+donor.sex,Female,Female,Male,Female,Male,Male,Male,Male,Female,Female,Female,Male
+donor.weight_unit,kg,kg,kg,kg,kg,kg,kg,kg,kg,kg,kg,kg
+cortex_area,36.996023752350006,744.3213835175,360.432252315,84.2301355,94.052231625,243.79412575624997,581.99285211375,87.5610171475,146.207781375,225.80911264999997,320.733514019,666.35784437875
+donor.height_value,162.3,160.0,190.5,158.8,193.0,166.0,167.6,180.3,160.0,167.6,157.4,181.6
+donor.weight_value,87.5,59.0,79.9,81.5,131.5,73.0,91.2,106.1,71.7,71.3,93.0,91.4
+donor.age_value,73,58,58,66,48,53,56,31,44,66,76,56
+donor.body_mass_index_value,33.2,23.0,22.0,32.2,35.3,26.5,32.5,32.6,28.0,25.4,37.5,27.7
+donor.height_unit,cm,cm,cm,cm,cm,cm,cm,cm,cm,cm,cm,cm
+bsa_m^2,1.9861499607699986,1.6193277068654826,2.05622023787985,1.8960631728809976,2.6551574550506625,1.8346964629363385,2.060550088366373,2.305177144313787,1.7851237118661178,1.8219251112795802,2.0164738199804795,2.1472359493596
+is_targeted,False,False,False,False,False,False,False,False,False,False,False,False
+operator,N. Heath Patterson,N. Heath Patterson,N. Heath Patterson,Elizabeth K. Neumann,Elizabeth K. Neumann,N. Heath Patterson,N. Heath Patterson,N. Heath Patterson,Elizabeth K. Neumann,N. Heath Patterson,N. Heath Patterson,N. Heath Patterson
+resolution_x_value,650.0,650.0,650.0,500.0,500.0,650.0,650.0,650.0,500.0,650.0,650.0,650.0
+resolution_y_value,650.0,650.0,650.0,500.0,500.0,650.0,650.0,650.0,500.0,650.0,650.0,650.0
+resolution_z_value,0,0,0,0,0,0,0,0,0,0,0,0
+area_count,99.0,1029.0,458.0,175.0,178.0,318.0,517.0,130.0,350.0,484.0,301.0,1025.0
+area_mean,18311.33,26507.83,30921.45,20966.01,26214.24,20576.62,24748.2,30979.79,24854.92,24957.81,22596.26,24214.58
+area_std,5621.91,10044.66,12647.38,13374.77,8645.11,7137.96,9752.56,13122.78,8658.9,8573.7,8917.09,8106.67
+area_min,7079.83,4671.62,6065.0,2285.13,8379.01,6070.9,5121.19,4812.22,4634.9,4432.45,3273.64,4205.23
+area_25%,14008.98,19127.21,21235.48,10122.38,19316.87,15236.19,17294.83,22872.46,18797.2,18945.24,15508.0,18464.68
+area_50%,18182.92,26603.25,29832.62,15326.67,26965.63,20583.44,24061.77,33013.3,25123.5,25741.6,23026.46,25156.88
+area_75%,21799.42,32946.13,39736.18,32124.3,33114.6,24962.44,31314.22,40174.74,30495.09,31002.65,29093.54,30093.2
+area_max,37797.48,72795.94,64850.79,60137.75,46043.49,54760.8,62089.57,80003.29,49550.88,50494.75,53402.38,50575.38
+ecc_count,99.0,1029.0,458.0,175.0,178.0,318.0,517.0,130.0,350.0,484.0,301.0,1025.0
+ecc_mean,0.4857,0.4629,0.4775,0.4521,0.4474,0.4554,0.4518,0.4657,0.4662,0.4529,0.4868,0.4281
+ecc_std,0.1619,0.1809,0.1662,0.1616,0.1696,0.1619,0.1708,0.1727,0.167,0.1743,0.1791,0.1682
+ecc_min,0.0,0.0,0.07,0.0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+ecc_25%,0.36,0.34,0.3525,0.35,0.33,0.3325,0.33,0.3625,0.3525,0.3275,0.35,0.31
+ecc_50%,0.48,0.47,0.5,0.46,0.46,0.47,0.46,0.49,0.46,0.455,0.5,0.44
+ecc_75%,0.61,0.6,0.6,0.57,0.58,0.57,0.58,0.57,0.59,0.59,0.62,0.55
+ecc_max,0.81,0.91,0.85,0.84,0.82,0.8,0.89,0.82,0.89,0.86,0.94,0.88
+glom_count_density glom/sq.mm,2.6759632511510505,1.3824673357322763,1.2706964958278222,2.077641202417394,1.8925654067381625,1.3043792544777821,0.8883270612728295,1.48467896142652,2.3938534372688753,2.1434033122932075,0.9384738009703876,1.538212551479175
+glom_area_density,0.04900044615969977,0.03664620911614411,0.03929177816091521,0.04355984622629509,0.04961216378793182,0.02683971625527262,0.02198449577779224,0.04599504244241169,0.059499035675042916,0.053494652621584544,0.021205998009915128,0.0372471708847966
+MDRD factor,0.31056275070221273,0.32540784784502436,0.53152872181694,0.3169833758967347,0.4557304306104361,0.5413456088146652,0.4416902682019679,0.4980277888999011,0.3441779249950128,0.3169833758967347,0.30803406425521396,0.4416902682019679
