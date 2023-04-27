@@ -1,6 +1,7 @@
 # Analyzing Relationship Between Glomerular Properties and Clinical Metadata - Client Project
 
-This repository contains the code and documentation for a client-facing project as a part of ENGR-E 583 course undertaken at IUB as a part of Master's in Data Science. It is aimed at investigating the variation in size, shape, and distribution of glomeruli in the kidneys of donors, and how they relate to clinical metadata such as race, age, sex, body surface area (BSA), and body mass index (BMI).
+This repository contains the code and documentation for a client-facing project as a part of ENGR-E 583 course undertaken at IUB for my Master's in Data Science. 
+It is aimed at investigating the variation in size, shape, and distribution of glomeruli in the kidneys of donors, and how they relate to clinical metadata such as race, age, sex, body surface area (BSA), and body mass index (BMI).
 
 ## Project Overview:
 The goal of this project was to analyze a dataset of 20 microscopic images of sections of donor kidneys, provided by the HuBMAP project [7], and annotated with glomerular and cortical borders in associated segmentation masks. The polygonal vertices of the glomerular and cortex annotations were processed to yield glomerular area (GA) and shape data (eccentricity, ECC) for the glomeruli and area data for the cortex. This data was processed to give measures as statistical data regarding GA and ECC as well as glomerular area ratio (GAR) (total glomerular area/cortical area) and glomerular density (GD) (count of glomeruli/cortical area) for each donor.
